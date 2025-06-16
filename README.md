@@ -43,43 +43,43 @@ By identifying areas that are prone to these issues, the research helped directl
 
 <p align="center">
 Conceptual Framework : <br/>
-<img src="https://i.imgur.com/RmPYm1P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5RMWYZb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  Study area: <br/>
-<img src="https://i.imgur.com/mfsUhUu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6V26OHz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Maseno Landuse landcover map 2016,2020,2024:  <br/>
-<img src="https://i.imgur.com/lUWayv3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/maCPY0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
 Maseno Landuse landcover graph 2016,2020,2024:  <br/>
-<img src="https://i.imgur.com/uD0PTuO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Cy9bJd7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 An image showing bareland in Maseno :  <br/>
-<img src="https://i.imgur.com/KSyCCx0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6JTL22G.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 A map showing suitable areas to grow crops in Maseno:  <br/>
-<img src="https://i.imgur.com/ygbV00A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vR3wES6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 A farm in Maseno showing maize and kales been grown.:  <br/>
-<img src="https://i.imgur.com/GQP1WIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0m5nd16.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
 A map showing soil erosion risk in Maseno :  <br/>
-<img src="https://i.imgur.com/6V5yZsj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/58CxFhh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
  An image showing soil erosion risk in Maseno. :  <br/>
-<img src="https://i.imgur.com/yznWlX7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/C6gXcyo.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
  A map showing Builtup areas and non-builtup  areas in Maseno from 2016 to 2024.  :  <br/>
-<img src="https://i.imgur.com/6V5yZsj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9ROZaj2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
  A graph showing NDBI trend in Maseno from 2016 to 2024 :  <br/>
