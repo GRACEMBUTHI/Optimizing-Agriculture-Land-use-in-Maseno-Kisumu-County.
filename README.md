@@ -1,4 +1,4 @@
-<h1> Optimizing Agriculture Land-use in Maseno,Kisumu County. </h1>
+<h1> Optimizing Agriculture Land-use for crop production in Maseno,Kisumu County. </h1>
 
 
 <h2>Description</h2>
