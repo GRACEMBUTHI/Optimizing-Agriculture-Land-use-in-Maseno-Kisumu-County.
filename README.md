@@ -83,19 +83,19 @@ A map showing soil erosion risk in Maseno :  <br/>
 <br />
 <br />  
  A graph showing NDBI trend in Maseno from 2016 to 2024 :  <br/>
-<img src="https://i.imgur.com/yznWlX7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0hcq31q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
   An image showing Built-up areas in Maseno. :  <br/>
-<img src="https://i.imgur.com/6V5yZsj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aFqjwbp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
 A map showing NDVI  variations from 2016 to 2024 . :  <br/>
-<img src="https://i.imgur.com/yznWlX7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7tLkRzB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
 A graph showing NDVI ranges in Maseno from 2016 to 2024 :  <br/>
-<img src="https://i.imgur.com/2BglXjp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tTEKNBT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h2> SUMMARY OF FINDINGS </h2>
